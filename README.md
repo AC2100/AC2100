@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AC2100 (Alison)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding, reading, speech and debate, and math!
+- 🌱 I’m currently learning SQL and machine learning.
+- 💞️
 - 📫 alisonec2100@gmail.com
 
 <!---
